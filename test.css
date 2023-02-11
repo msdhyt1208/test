@@ -40,21 +40,20 @@ main{
   height: 100%;
   width: 70px;
 }
-h1{
+p{
   display: flex;
     justify-content: center;
     align-items:center ;
-  font-size: 1em;
   background-color: #b7b7b7;
   height: 50px;
   width: 100px;
 }
 
-#height h1{
+#height p{
   transform: rotate(90deg);
   margin-top: 50px;
 }
-#width h1{
+#width p{
   margin-left: 50px;
 }
 button{

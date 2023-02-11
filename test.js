@@ -1,6 +1,6 @@
 const main =document.querySelector("main");
-const height =document.querySelector("#height>h1") ;
-const width =document.querySelector("#width>h1") ;
+const height =document.querySelector("#height>p") ;
+const width =document.querySelector("#width>p") ;
 const btn = document.querySelector("button");
 
 btn.addEventListener("click",function(){
